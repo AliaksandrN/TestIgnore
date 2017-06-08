@@ -1,0 +1,18 @@
+2017-06-08 15:34:46,947 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/aleksander/workspace/workspace/selenium/pom.xml
+2017-06-08 15:34:47,724 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ug.java.test:selenium:0.0.1-SNAPSHOT @ /home/aleksander/workspace/workspace/selenium/pom.xml.
+2017-06-08 15:34:48,075 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /selenium/src/main/java
+2017-06-08 15:34:48,077 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /selenium/src/test/java
+2017-06-08 15:34:48,475 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2017-06-08 15:34:49,022 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 15:34:49,022 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/aleksander/workspace/workspace/selenium/src/main/resources
+2017-06-08 15:34:49,024 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 15:34:49,024 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/aleksander/workspace/workspace/selenium/src/test/resources
+2017-06-08 15:35:15,855 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/aleksander/workspace/workspace/jbehave/pom.xml
+2017-06-08 15:35:15,941 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ug.java.test:jbehave:0.0.1-SNAPSHOT @ /home/aleksander/workspace/workspace/jbehave/pom.xml.
+2017-06-08 15:35:15,989 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jbehave/src/main/java
+2017-06-08 15:35:15,991 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jbehave/src/test/java
+2017-06-08 15:35:16,036 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-06-08 15:35:16,231 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 15:35:16,231 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/aleksander/workspace/workspace/jbehave/src/main/resources
+2017-06-08 15:35:16,233 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 15:35:16,233 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/aleksander/workspace/workspace/jbehave/src/test/resources
